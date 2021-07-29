@@ -1,2 +1,9 @@
-master1
-Hotfix第一次修改
+
+Develop  1   第一次修改
+Develop  1   第二次修改
+Develop  1   第三次修改
+Feature  1   第一次修改
+Feature  2   第二次修改
+这里出现冲突，将所有修改都保留
+Release  1   第一次修改
+Release  1   第二次修改
